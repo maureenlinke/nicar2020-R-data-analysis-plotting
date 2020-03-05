@@ -17,6 +17,7 @@ library(ggplot2)
 
 meeting <- read.csv("data/how_met_decade.tsv", sep="\t", stringsAsFactors=FALSE)
 
+View(meeting)
 #
 # Multi-line chart.
 #
