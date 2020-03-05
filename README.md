@@ -1,4 +1,6 @@
 # R 2: Data analysis and plotting
+
+How to create publishable graphics from R and using the tidyverse for data processing and analysis. We'll look at examples of published work from the Wall Street Journal and dive into the code it took to produce them.
   
 * Maureen Linke, The Wall Street Journal
    **[@maureenlinke](http://www.twitter.com/maureenlinke)**
